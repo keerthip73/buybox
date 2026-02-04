@@ -152,9 +152,10 @@ Note:- This is a Sample Project for learning purpose, we have not much considere
 #### "Suggestions and project improvement ideas are welcomed!"
 
 <bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                
 
 
-#   b u y b o x  
+#   b u y b o x 
+ 
  "# buybox" 
+
